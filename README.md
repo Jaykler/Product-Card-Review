@@ -58,7 +58,7 @@ As mentioned above, when I used @media, I felt like I had a hard time understand
 
 ### Useful resources
 
-- I'll recomment to anyone to check out W3School for doubts when working with @media.[W3school](https://www.w3schools.com/)
+- I'll recommend to anyone to check out [W3school](https://www.w3schools.com/) for doubts when working with @media.
 
 ## Author
 
@@ -72,4 +72,4 @@ Thanks to one of my friends who actually help me centering the container. 🤣
 -unfortunately, didn't ask for his github account.
 
 -Also took this guy's Readme as a guide:
-[Saurav-98]https://github.com/Saurav-98
+[Saurav-98](https://github.com/Saurav-98)
