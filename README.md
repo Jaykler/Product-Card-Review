@@ -20,7 +20,7 @@ Hi there🙋🏽‍♀️, My name is Hilda, you can call me Jaykler. I've compl
 
 ### Screenshot
 ![](./images/Mobile%20view.png)
-![](./images/image-product-desktop.jpg)
+![](./images/Desktop%20View.png)
 ./s
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
