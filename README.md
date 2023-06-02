@@ -1,6 +1,5 @@
 # Frontend Mentor - Product preview card component solution
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-![](./images/image-product-desktop.jpg)
 
 ## Table of contents 
 
@@ -21,7 +20,7 @@ Hi there🙋🏽‍♀️, My name is Hilda, you can call me Jaykler. I've compl
 
 ### Screenshot
 ![](./images/Mobile%20view.png)
-![](./images/Mobile%20view.png)
+![](./images/image-product-desktop.jpg)
 ./s
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
