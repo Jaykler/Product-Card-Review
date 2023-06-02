@@ -5,6 +5,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 - [Welcome](#welcome)
   - [Screenshot](#screenshot)
+- [My solution](#my-solution)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -21,9 +22,9 @@ Hi there🙋🏽‍♀️, My name is Hilda, you can call me Jaykler. I've compl
 ### Screenshot
 ![](./images/Mobile%20view.png)
 ![](./images/Desktop%20View.png)
-./s
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+### Solution
+- Solution URL: [https://github.com/Jaykler/Product-Card-Review](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -53,7 +54,7 @@ There could be an easiest way to do it, but im currently on the learning path.
 
 ### Continued development
 
-As mentioned above about the @media, i feel like I have not gotten confortable using it. However, I'll contineu to focuse on practicing. 
+As mentioned above, when I used @media, I felt like I had a hard time understanding how it works. However, I'll keep practicing. 
 
 ### Useful resources
 
