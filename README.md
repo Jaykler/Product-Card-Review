@@ -24,8 +24,8 @@ Hi there🙋🏽‍♀️, My name is Hilda, you can call me Jaykler. I've compl
 ![](./images/Desktop%20View.png)
 
 ### Solution
-- Solution URL: [https://github.com/Jaykler/Product-Card-Review](https://your-solution-url.com)
-- Live Site URL: [[Add live site URL here](https://jaykler.github.io/Product-Card-Review/)](https://jaykler.github.io/Product-Card-Review/)
+- Solution URL: [https://github.com/Jaykler/Product-Card-Review](https://github.com/Jaykler/Product-Card-Review)
+- Live Site URL: [(https://jaykler.github.io/Product-Card-Review/)](https://jaykler.github.io/Product-Card-Review/)
 
 ## My process
 
